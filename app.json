@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sport-3",
-    "slug": "sport-3",
+    "name": "expo-native-wind-template",
+    "slug": "expo-native-wind-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
