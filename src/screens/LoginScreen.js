@@ -18,7 +18,6 @@ export default function LoginScreen({ navigation }) {
   return (
     <View className="flex-1 bg-white p-6 justify-center">
       <Text className="text-3xl font-bold mb-8 text-center">Login</Text>
-      
       <TextInput
         className="w-full bg-gray-100 rounded-lg p-4 mb-4"
         placeholder="Email"
